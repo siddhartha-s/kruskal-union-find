@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/uf_test.dir/test/uf_test.cpp.o CMakeFiles/uf_test.dir/src/Union_find.cpp.o  -o uf_test .ipd/lib/catch/libcatch.a 
